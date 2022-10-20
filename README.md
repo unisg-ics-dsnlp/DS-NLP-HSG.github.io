@@ -1,1 +1,1 @@
-Please refer to the [dataset's website](https://ds-nlp.github.io/) for more information.
+Please refer to the [dataset's website](https://ds-nlp-hsg.github.io/) for more information.
