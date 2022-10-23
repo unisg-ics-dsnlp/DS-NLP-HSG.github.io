@@ -24,7 +24,7 @@ image: "/assets/images/logo.jpg"
 Measure your performance using our provided script:
 
 ```
-evaluate_fit_qa
+evaluate_fod_qa
 ```
 
 This script will apply your model on the test data.
@@ -35,7 +35,7 @@ This script will apply your model on the test data.
 
 ## Collaboration on the Dataset
 
-We welcome everybody to directly participate in improving `FIT-QA` by contributing their competency and time by the following means:
+We welcome everybody to directly participate in improving `FOD-QA` by contributing their competency and time by the following means:
 
 1) Finding new questions to be added to the set of questions (currently 20).
 2) Engaging in discussions about new questions to be added.
